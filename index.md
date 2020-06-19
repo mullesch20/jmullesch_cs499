@@ -1,7 +1,37 @@
-Professional Self-Assessment
+## Welcome to GitHub Pages
 
-	Completing the computer science capstone, and ultimately the SNHU computer science program, has made me realize how far I have come in my computer and programming knowledge since starting school. I have completed several projects of varying difficulty in several different programming languages. I worked on a team project in CS-310 where we all submitted different parts of program we had written and merged it all in GitHub and then peer reviewed each other’s work. I worked on communicating to shareholders and other team members in CS-250 where I learned about waterfall and agile methodologies in the software development lifecycle. In CS-260 I learned about data structures and algorithms where I used C++ to implement hash tables, vector sorting, pointers, and linked lists. I learned about and implemented SQL commands and databases in DAD-220 and utilized MongoDB and Python in CS-340 to implement client/server communication into a program. I learned the importance of security in several of the courses throughout my degree program and in CS-405 I went through several programs that were given to us to check and find all of the coding mistakes, errors, and security threats. The artifact I’ve chosen to showcase implements only some of these disciplines, but I chose this artifact because it is easy to follow and it demonstrates that I can build a modular, concise, and logically sound program.
-	
-Narratives
+You can use the [editor on GitHub](https://github.com/mullesch20/jmullesch_cs499/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-	The artifact that I have chosen is the Final Project from IT-145. It is an authentication program for a zoo written in Java and it was created in 2017. I selected this item because it can be implemented into almost any aspect of software engineering. The artifact was improved to meet the criteria for the software design/engineering requirement by adding more menu options for the system users. The users can now leave a string message stored in an array or view the message that was left. This ended up being a better design than the first implementation of the menu system. Throughout the enhancement process I learned that going back and looking at older projects can offer new ideas on how to do things differently and apply skills that were not yet possessed at the time the original work was completed. Most programs need credential login and verification and this program does this in it very basic way. The artifact was improved to meet the criteria for the data structures and algorithms requirement by adding a better password hashing function. There is justified inclusion because a hash is a type of data structure and the old program used a message digest (MD5) to hash the password, but this is not as secure as the new hash that was implemented. The new hash uses the PBKDF2WithHmacSHA1 algorithm and I have set it to iterate 1000 times. This new passing hashing system will make the hash more secure. Throughout the enhancement process I learned different password hashing techniques that can be used in Java. The old program accessed a text file of verified usernames and passwords to ensure that the user’s entries matched the data contained in a text file. The artifact was improved to meet the criteria for the database requirement by adding functionality to access a MySQL online database. There is justified inclusion because online databases are widely used in today’s programs and applications. It is important to note that I have not setup an online database containing the correct login credentials. I have only implemented the functionality to access the database. Throughout the enhancement process I learned about different database applications and how to implement them in Java.
+Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+### Markdown
+
+Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
+```markdown
+Syntax highlighted code block
+
+# Header 1
+## Header 2
+### Header 3
+
+- Bulleted
+- List
+
+1. Numbered
+2. List
+
+**Bold** and _Italic_ and `Code` text
+
+[Link](url) and ![Image](src)
+```
+
+For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+
+### Jekyll Themes
+
+Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mullesch20/jmullesch_cs499/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+
+### Support or Contact
+
+Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
