@@ -9,4 +9,4 @@ The artifact that I have chosen is the Final Project from IT-145. It is an authe
 
 ### Artifact
 
-Here is a link to my [artifact](https://github.com/mullesch20/mullesch20.github.io.git)
+Here is a [link](https://github.com/mullesch20/mullesch20.github.io.git) to my artifact and code review.
